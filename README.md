@@ -7,6 +7,6 @@ wss://stream.binance.com:9443/ws/btcbusd@trade
 
 First you have to choose the coin you want to withdraw, and secondly the currency.
 
-[binance-btc](https://user-images.githubusercontent.com/92811942/175821183-98b078e3-665e-4158-8b3a-01a35a846d3b.png)
+<img src="https://user-images.githubusercontent.com/92811942/175821183-98b078e3-665e-4158-8b3a-01a35a846d3b.png" widt="400"; />
 
 You must write with the names they appear on the site.
