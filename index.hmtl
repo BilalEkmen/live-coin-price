@@ -1,0 +1,9 @@
+<html>
+<head>
+  <title>Live Coin</title>
+</head>
+<body>
+  <h2>Open The Console</h2>
+</body>
+<script src="liveCoin.js"></script>
+</html>
